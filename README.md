@@ -1,5 +1,4 @@
-# DeepCTR
-# fork for test
+# fork from DeepCtr for test
 
 [![Python Versions](https://img.shields.io/pypi/pyversions/deepctr.svg)](https://pypi.org/project/deepctr)
 [![TensorFlow Versions](https://img.shields.io/badge/TensorFlow-1.4+/2.0+-blue.svg)](https://pypi.org/project/deepctr)
@@ -69,69 +68,3 @@ Introduction](https://zhuanlan.zhihu.com/p/53231955)) and [welcome to join us!](
 |   PLE                    | [RecSys 2020][Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/10.1145/3383313.3412236)                   |
 |   EDCN                   | [KDD 2021][Enhancing Explicit and Implicit Feature Interactions via Information Sharing for Parallel Deep CTR Models](https://dlp-kdd.github.io/assets/pdf/DLP-KDD_2021_paper_12.pdf)                   |
 
-## Citation
-
-- Weichen Shen. (2017). DeepCTR: Easy-to-use,Modular and Extendible package of deep-learning based CTR
-  models. https://github.com/shenweichen/deepctr.
-
-If you find this code useful in your research, please cite it using the following BibTeX:
-
-```bibtex
-@misc{shen2017deepctr,
-  author = {Weichen Shen},
-  title = {DeepCTR: Easy-to-use,Modular and Extendible package of deep-learning based CTR models},
-  year = {2017},
-  publisher = {GitHub},
-  journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/shenweichen/deepctr}},
-}
-```
-
-## DisscussionGroup
-
-- [Github Discussions](https://github.com/shenweichen/DeepCTR/discussions)
-- Wechat Discussions
-
-|公众号：浅梦学习笔记|微信：deepctrbot|学习小组 [加入](https://t.zsxq.com/026UJEuzv) [主题集合](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MzY4NzE3MA==&action=getalbum&album_id=1361647041096843265&scene=126#wechat_redirect)|
-|:--:|:--:|:--:|
-| [![公众号](./docs/pics/code.png)](https://github.com/shenweichen/AlgoNotes)| [![微信](./docs/pics/deepctrbot.png)](https://github.com/shenweichen/AlgoNotes)|[![学习小组](./docs/pics/planet_github.png)](https://t.zsxq.com/026UJEuzv)|
-
-## Main contributors([welcome to join us!](./CONTRIBUTING.md))
-
-<table border="0">
-  <tbody>
-    <tr align="center" >
-      <td>
-        ​ <a href="https://github.com/shenweichen"><img width="70" height="70" src="https://github.com/shenweichen.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/shenweichen">Shen Weichen</a> ​
-        <p>
-        Alibaba Group  </p>​
-      </td>
-      <td>
-         <a href="https://github.com/zanshuxun"><img width="70" height="70" src="https://github.com/zanshuxun.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/zanshuxun">Zan Shuxun</a> ​
-        <p>Alibaba Group  </p>​
-      </td>
-      <td>
-        ​ <a href="https://github.com/pandeconscious"><img width="70" height="70" src="https://github.com/pandeconscious.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/pandeconscious">Harshit Pande</a>
-        <p> Amazon   </p>​
-      </td>
-      <td>
-        ​ <a href="https://github.com/morningsky"><img width="70" height="70" src="https://github.com/morningsky.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/morningsky">Lai Mincai</a>
-        <p> ByteDance </p>​
-      </td>
-      <td>
-        ​ <a href="https://github.com/codewithzichao"><img width="70" height="70" src="https://github.com/codewithzichao.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/codewithzichao">Li Zichao</a>
-        <p> ByteDance   </p>​
-      </td>
-      <td>
-        ​ <a href="https://github.com/TanTingyi"><img width="70" height="70" src="https://github.com/TanTingyi.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/TanTingyi">Tan Tingyi</a>
-         <p>  Chongqing University <br> of  Posts and <br> Telecommunications   </p>​
-      </td>
-    </tr>
-  </tbody>
-</table>
